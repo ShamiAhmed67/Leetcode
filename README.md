@@ -20,4 +20,12 @@ solving leetcode problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShamiAhmed67/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
